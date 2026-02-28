@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: WIWU
+Version: 1.2.0
+Summary: A simple music library - make music with notes like C4, A#3!
+Author: TechnoSwas
+Requires-Dist: numpy
+Dynamic: author
+Dynamic: requires-dist
+Dynamic: summary
